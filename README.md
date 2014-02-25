@@ -1,7 +1,7 @@
 #Docky themes for use with the Numix theme suite
 Thank you Numix Guys! http://numixproject.org/
 Give them your moneys!
-Please go to http://wiki.go-docky.com/index.php?title=Themes for information on themeing Docky
+
 The themes
 ----
 Red DK
