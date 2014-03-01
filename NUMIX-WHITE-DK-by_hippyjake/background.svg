@@ -41,9 +41,9 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="878.20249"
-     inkscape:cy="93.468739"
+     inkscape:zoom="181.01934"
+     inkscape:cx="998.987"
+     inkscape:cy="149.24053"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:current-layer="svg2"
@@ -52,17 +52,11 @@
   <defs
      id="defs4" />
   <rect
-     y="0"
-     x="0"
-     height="150"
-     width="1000"
+     y="0.50000763"
+     x="0.5"
+     height="148.99998"
+     width="999"
      id="rect2982"
-     style="fill:#2d2d2d;fill-opacity:1;stroke:none" />
-  <rect
-     style="fill:none;stroke:#484848;stroke-width:0.99993854999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     id="rect3774"
-     width="994.99591"
-     height="144.99596"
-     x="2.502027"
-     y="2.5020268" />
+     style="fill:#2d2d2d;fill-opacity:1;stroke:#484848;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     ry="2" />
 </svg>

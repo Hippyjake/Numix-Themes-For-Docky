@@ -41,9 +41,9 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="256"
-     inkscape:cx="997.11308"
-     inkscape:cy="147.07891"
+     inkscape:zoom="45.254834"
+     inkscape:cx="993.20782"
+     inkscape:cy="146.46569"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:current-layer="svg2"
@@ -56,12 +56,14 @@
      height="150"
      width="1000"
      id="rect2982"
-     style="fill:#2d2d2d;fill-opacity:1;stroke:none" />
+     style="fill:#2d2d2d;fill-opacity:1;stroke:none"
+     ry="2" />
   <rect
      style="fill:none;stroke:#d64937;stroke-width:0.99993855;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect3774"
      width="994.99591"
      height="144.99596"
      x="2.502027"
-     y="2.5020268" />
+     y="2.5020268"
+     ry="2" />
 </svg>
